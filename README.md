@@ -28,6 +28,10 @@ models/: Directory for saving trained models and any serialized objects for futu
 
 📊 Dataset
 
+https://drive.google.com/file/d/15JW0pxywlKcC9snBJcK-OUzos35ilDPI/view?usp=share_link
+
+
+
 The dataset used in this project consists of movie ratings from users. It includes information such as:
 
 Movie titles
